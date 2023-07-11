@@ -1,9 +1,9 @@
 ### Hi there 👋
 # Who I me
 This is Az_eeeee
-- My name
+- My name is
 Zzy
 - Friend
 https://github.com/cubewhy
-- other
+- Others
 ~~Fujo is a Joker~~
