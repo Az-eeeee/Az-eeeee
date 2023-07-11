@@ -1,9 +1,9 @@
 ### Hi there 👋
 # Who I me
 This is Az_eeeee
-# My name
+- My name
 Zzy
-# Friend
+- Friend
 https://github.com/cubewhy
-# Other
-~~Fujo is a Joker~~'Have IQ Know This'
+- other
+~~Fujo is a Joker~~
